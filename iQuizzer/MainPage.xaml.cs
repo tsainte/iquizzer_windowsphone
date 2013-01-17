@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
+using Microsoft.Phone.Tasks;
 
 namespace iQuizzer
 {
@@ -19,6 +20,13 @@ namespace iQuizzer
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private void btn_signup_Click(object sender, RoutedEventArgs e)
+        {
+            WebBrowserTask task = new WebBrowserTask();
+            task.Uri =  new Uri("http://iquizzer.herokuapp.com/users/sign_up");
+            task.Show();
         }
     }
 }

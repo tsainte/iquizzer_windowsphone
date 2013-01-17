@@ -1,0 +1,13 @@
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\Bin\Debug\ApplicationIcon.png
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\Bin\Debug\Background.png
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\Bin\Debug\iQuizzer.dll
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\Bin\Debug\iQuizzer.pdb
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\App.g.i.cs
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\MainPage.g.i.cs
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\iQuizzer.g.resources
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\iQuizzer.dll
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\iQuizzer.pdb
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\Bin\Debug\AppManifest.xaml
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\Bin\Debug\iQuizzer.xap
+C:\Users\ufc16.bencardino\Documents\Visual Studio 2010\Projects\iquizzer_windowsphone\iQuizzer\obj\Debug\XapCacheFile.xml
